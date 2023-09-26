@@ -1,4 +1,4 @@
-Hi 👋 My name is Tony Jasynewycz
+Hi 👋 my name is Tony Jasynewycz
 ================================
 
 Software Engineer, Architect, Leader
