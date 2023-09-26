@@ -8,8 +8,8 @@ I am a techie that has been predominantly working with Java over the past 20 yea
 
 *   🌍  I'm based in Nottingham
 *   ✉️  You can contact me at [tony\_jas@hotmail.com](mailto:tony_jas@hotmail.com)
-*   🧠  I'm learning React, Angular, and advanced Python
-*   🤝  I'm open to collaborating on Anything really, but have a special interest in any sports/fitness tech (Strava type apps/plugins)
+*   🧠  I'm currently learning React, Angular, and advanced Python, along with a very broad knowledge of software architecture in general
+*   🤝  I'm open to collaborating on anything, but have a special interest in any sports/fitness tech (Strava type apps/plugins)
 *   ⚡  Spend a lot of time trying to keep fit (running/cycling)
 
 ### Skills 
