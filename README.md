@@ -1,22 +1,35 @@
-Hi 👋 my name is Tony Jasynewycz
-================================
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tonyjas.tonyjas" />
 
-Software Engineer, Architect, Leader
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Tony+Jasynewycz!;" />
+</h1>
+<h3 align="center">
+  Software Engineer, Architect, Leader
+</h3>  
+<p align="center">
 ------------------------------------
-
-I am a techie that has been predominantly working with Java over the past 20 years.
-
-*   🌍  I'm based in Nottingham
-*   ✉️  You can contact me at [tony\_jas@hotmail.com](mailto:tony_jas@hotmail.com)
-*   🧠  I'm currently learning React, Angular, and advanced Python, along with a very broad knowledge of software architecture in general
-*   🤝  I'm open to collaborating on anything, but have a special interest in any sports/fitness tech (Strava type apps/plugins)
-*   ⚡  Spend a lot of time trying to keep fit (running/cycling)
-
-### Skills 
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 </p>
-                    
+I am a techie that has been predominantly working with Java over the past 20+ years. I am new to github and keen to branch out from Java.
+
+*   🌍  I'm based in Nottingham, UK.
+*   ✉️  You can contact me at [tony\_jas@hotmail.com](mailto:tony_jas@hotmail.com)
+*   🧠  I'm currently learning Rust, Javascript frontend frameworks (React, Angular), and advanced Python, along with adding to my broad knowledge of software architecture in general
+*   🤝  I'm open to collaborating on anything, but have a special interest in any sports/fitness tech (Strava type apps/plugins)
+*   ⚡  Spend a lot of my spare time trying to stay fit (running/cycling)
+
+### Skills (from Expert to more learning/aspirational)
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=java,maven,spring,hibernate,jenkins,idea,html,git,js" /><br>
+</div>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=angular,react,redis,nextjs,ts,css,express,github,py,mongodb,postgres,c,cpp,azure,docker,kubernetes,linux,nginx&perline=20" /><br>
+</div>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=rust,jest,jquery,kafka,kotlin,lua,go" /><br>
+</div>
+                
 ### Socials
 <p align="left">
   <a href="https://www.github.com/tonyjas" target="_blank" rel="noreferrer">
