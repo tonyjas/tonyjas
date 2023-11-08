@@ -47,7 +47,5 @@ I am a techie that has been predominantly working with Java over the past 20+ ye
     </picture>
   </a>
 </p>
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=tonyjas)](https://github.com/LordDashMe/github-contribution-stats/)
 
-<p>
-    [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=tonyjas)](https://github.com/LordDashMe/github-contribution-stats/)
-</p>
