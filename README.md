@@ -13,9 +13,9 @@ I am a techie that has been predominantly working with Java over the past 20+ ye
 
 *   🌍  I'm based in Nottingham, UK.
 *   ✉️  You can contact me at [tony\_jas@hotmail.com](mailto:tony_jas@hotmail.com)
-*   🧠  I'm currently learning Rust, Javascript frontend frameworks (React, Angular), and advanced Python, along with adding to my broad knowledge of software architecture in general
+*   🧠  I'm currently spending a lot of time playing with my new friend Claude along with adding to my broad knowledge of software architecture in general
 *   🤝  I'm open to collaborating on anything, but have a special interest in any sports/fitness tech (Strava type apps/plugins)
-*   ⚡  Spend a lot of my spare time trying to stay fit (running/cycling)
+*   ⚡  Spend a lot of my spare time trying to stay fit (running/cycling) - Spine race/Arc of Attrition one day!
 
 ### Skills (from Expert to more learning/aspirational)
 <div align="center">
